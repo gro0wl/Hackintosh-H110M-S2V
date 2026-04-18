@@ -1,10 +1,10 @@
-# 🍎 Hackintosh GA-H110M-S2V
+🍎 Hackintosh GA-H110M-S2V
 
 OpenCore EFI for `Gigabyte GA-H110M-S2V` with `Intel Core i3-7100` and `Intel HD Graphics 630`.
 
 ## 📸 Screenshot
 
-![MacOS Tahoe on GA-H110M-S2V](./screenshot.jpg)
+![MacOS Tahoe on GA-H110M-S2V](https://github.com/user-attachments/assets/860d0cb4-70e8-4cb3-9e5c-1277aad00cae) 
 
 <small><i>MacOS Tahoe on GA-H110M-S2V</i></small>
 
