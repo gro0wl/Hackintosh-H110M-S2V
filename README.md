@@ -11,9 +11,7 @@
 | Graphics | Intel HD Graphics 630 |
 | Audio | Realtek ALC887 |
 | Ethernet | Realtek RTL8111 |
-| Wi-Fi / Bluetooth | Not tested |
 | Latest Tested System | macOS Tahoe 26.x |
-| Other macOS Versions | Not tested |
 | SMBIOS | iMac19,1 |
 | Video Output Used | VGA |
 
