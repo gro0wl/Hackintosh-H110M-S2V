@@ -20,7 +20,7 @@ OpenCore EFI for `Gigabyte GA-H110M-S2V` with `Intel Core i3-7100` and `Intel HD
 | Wi-Fi / Bluetooth | Not tested |
 | Latest Tested System | macOS Tahoe 26.x |
 | Other macOS Versions | Not tested |
-| SMBIOS | iMac18,1 |
+| SMBIOS | iMac19,1 |
 | Video Output Used | VGA |
 
 ## ✅ Status
