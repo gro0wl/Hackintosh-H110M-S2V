@@ -45,7 +45,6 @@
 - `BIOS`
   - `Fast Boot` = `Disabled`
   - `OS Type` = `Windows 8 / 10`
-  - `Secure Boot` = `Disabled`
 - `Peripherals`
   - `USB Configuration`
     - `XHCI Hand-Off` = `Enabled`
@@ -54,7 +53,6 @@
     - `SATA Mode` = `AHCI`
   - `Super IO Configuration`
     - `Serial Port` = `Disabled`
-    - `Parallel Port` = `Disabled`
 - `Chipset`
   - `VT-d` = `Disabled`
   - `DVMT Pre-Allocated` = `64 MB`
