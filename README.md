@@ -86,7 +86,8 @@ OpenCore EFI for `Gigabyte GA-H110M-S2V` with `Intel Core i3-7100` and `Intel HD
 ## 📝 Notes
 
 - `VGA` output is patched in `config.plist`.
-- EFI uses `iMac18,1` SMBIOS.
+- EFI uses `iMac19,1` SMBIOS.
+- SMBIOS values are zeroed / placeholder by default. Generate your own values with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 - Tahoe support relies on a `Skip Board ID check` booter patch.
 - For `iMessage`, `FaceTime`, and other Apple services, generate your own SMBIOS values before daily use.
 
