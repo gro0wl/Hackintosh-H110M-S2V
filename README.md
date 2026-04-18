@@ -1,4 +1,4 @@
-<img width="1280" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/b5337308-17fb-4d69-b03f-4b0053741ece" /># 🍎 Hackintosh GA-H110M-S2V
+🍎 Hackintosh GA-H110M-S2V
 
 OpenCore EFI for `Gigabyte GA-H110M-S2V` with `Intel Core i3-7100` and `Intel HD Graphics 630`.
 
