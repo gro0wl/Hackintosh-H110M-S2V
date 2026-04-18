@@ -98,8 +98,6 @@ OpenCore EFI for `Gigabyte GA-H110M-S2V` with `Intel Core i3-7100` and `Intel HD
 
 ## Credits
 
-Inspired by and based on research from these repositories:
+Inspired by [lyntaxxq/H110M-S2-OC](https://github.com/lyntaxxq/H110M-S2-OC/).
 
-- [DMNerd/Hackintosh-H110M](https://github.com/DMNerd/Hackintosh-H110M)
-- [Jakmaster199/OpenCore-H110-7thGen](https://github.com/Jakmaster199/OpenCore-H110-7thGen)
-- [jukfiuune/Hackintosh_i3-7100_B250_HD630_OC_EFI](https://github.com/jukfiuune/Hackintosh_i3-7100_B250_HD630_OC_EFI)
+Special thanks to [lyntaxxq](https://github.com/lyntaxxq).
