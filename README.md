@@ -4,7 +4,7 @@ OpenCore EFI for `Gigabyte GA-H110M-S2V` with `Intel Core i3-7100` and `Intel HD
 
 ## 📸 Screenshot
 
-![MacOS Tahoe on GA-H110M-S2V](./screenshot.png)
+![MacOS Tahoe on GA-H110M-S2V](./screenshot.jpg)
 
 <small><i>MacOS Tahoe on GA-H110M-S2V</i></small>
 
